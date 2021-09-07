@@ -33,7 +33,7 @@ If there is no output, you can install NodeJS [directly](https://nodejs.org/en/)
 
 Install the Gatsby CLI.
 
-`npm install -g gatsby-cli`
+`sudo npm install -g gatsby-cli`
 
 ### Fork this repository and then clone your fork:
 
