@@ -20,12 +20,9 @@ export default () => (
    </ul>
 
    Register and get the link on <a href = "https://docs.google.com/forms/d/e/1FAIpQLSePoDzWsUZV5JYzHLsy5Vuio-oxEKNydTsnmo_wLU4H1EV9ng/viewform">this form</a>.
-   <br>
    To sign up to comp one or more of our boads, fill out <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfmWGYcrESI6qvQfYDsQ-Pr54edHh9ZhgNx7Wm8yjhv7_D6qg/viewform">this form</a>.
-   <br>
    For any questions, comments or concerns, contact <a href = "mailto:dionysi@theharvardadvocate.com"> dionysi@theharvardadvocate.com </a>.
             </p>
-            <p></p>
         </div>
    </Layout>
 )
