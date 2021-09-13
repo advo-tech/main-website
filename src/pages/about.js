@@ -16,8 +16,7 @@ export default () => (
             <li>Publisher</li>
             <li>Art Editors</li>
             <li>&ensp;</li>
-            <li>Business Managers</li>
-            <li>&ensp;</li>
+            <li>Business Manager</li>
             <li>Design Editors</li>
             <li>&ensp;</li>
             <li>Features Editor</li>
@@ -26,11 +25,13 @@ export default () => (
             <li>Technology Editors</li>
             <li>&ensp;</li>
             <li>Blog Editor</li>
+            <li>&ensp;</li>
             <li>Diversity and Inclusivity Chair</li>
             <li>Alumni Relations Manager</li>
             <li>Dionysi</li>
             <li>&ensp;</li>
             <li>Pegasi</li>
+            <li>&ensp;</li>
             <li>&ensp;</li>
             <li>&ensp;</li>
             <li>Hermes</li>
@@ -40,32 +41,33 @@ export default () => (
             <li>Librarian</li>
         </ul>
         <ul className="board-list list-right">
-            <li>OWEN TORREY</li>
-            <li>ESTEBAN ARELLANO</li>
-            <li>ECE HAKIM</li>
-            <li>HERKUS GUDAVIČIUS</li>
-            <li>FRANCESCA MALATESTA</li>
-            <li>HULYA KOSEMATOGLU</li>
-            <li>MARLENA SKRABAK</li>
-            <li>ADAM GORDON</li>
-            <li>ELI ZUZOVSKY</li>
-            <li>TADHG LARABEE</li>
-            <li>MARIE UNGAR</li>
-            <li>BENJY FIRESTER</li>
-            <li>SERENA DAVIS</li>
-            <li>POLINA WHITEHOUSE</li>
             <li>MADI HOWARD</li>
-            <li>DANIEL FORREST</li>
-            <li>ROSIE COLLIER</li>
-            <li>JAMES QUILLEN</li>
-            <li>BECCA CADENHEAD</li>
-            <li>VON PITTS</li>
-            <li>JESSICA LEE</li>
-            <li>EZRA LEBOVITZ</li>
-            <li>KAREN CHEN</li>
-            <li>EVA ROSENFELD</li>
+            <li>MARLENA SKRABAK</li>
+            <li>JOHANNA ALSTOTT</li>
+            <li>JESS LEE</li>
+            <li>YEJIN KIM</li>
             <li>ALBERT ZHANG</li>
-            <li>ELYSE PHAM</li>
+            <li>TOMASZ CIENKOWSKI</li>
+            <li>REBECCA CADENHEAD</li>
+            <li>JULIET ISSELBACHER</li>
+            <li>CHARLEY HUTCHINSON</li>
+            <li>EMMA FREEMAN</li>
+            <li>ANDY WANG</li>
+            <li>MARIE UNGAR</li>
+            <li>VICKY XU</li>
+            <li>LANA REEVES</li>
+            <li>LARA ZENG</li>
+            <li>ROSIE COLLIER</li>
+            <li>TADHG LARABEE</li>
+            <li>EZRA LEBOVITZ</li>
+            <li>MICHELLE TONG</li>
+            <li>LILY CUNNINGHAM</li>
+            <li>VICTORIA SANCHEZ</li>
+            <li>HARPER ORECK</li>
+            <li>TALIA BLATT</li>
+            <li>ALISA REGASSA</li>
+            <li>BETSY PEINADO</li>
+            <li>KEVIN CHEN</li>
         </ul>
     </div>
 
