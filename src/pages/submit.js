@@ -15,7 +15,7 @@ export default () => (
             <h1 class="header">Fall 2021 Issue</h1>
             <div className='center'>
                 <p>We are currently accepting submissions for our Fall 2021 issue.</p>
-                <p>Our Fall 2021 review period ends on September 24th, 2021.</p>
+                <p>Our Fall 2021 review period ends on October 14th, 2021.</p>
             </div>
             <div className='center'>
             </div>
