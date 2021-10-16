@@ -50,7 +50,7 @@ export default () => (
             <li>TOMASZ CIENKOWSKI</li>
             <li>REBECCA CADENHEAD</li>
             <li>JULIET ISSELBACHER</li>
-            <li>CHARLEY HUTCHINSON</li>
+            <li>CHARLEY HUTCHISON</li>
             <li>EMMA FREEMAN</li>
             <li>ANDY WANG</li>
             <li>MARIE UNGAR</li>
