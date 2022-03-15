@@ -2,7 +2,7 @@
 title: albert_test
 date: 2022-03-15
 slug: "{{ albert-test }}"
-issue: Fall
+issue: Winter
 year: "2021"
 issue_full_name: Fall 2021
 section: features
