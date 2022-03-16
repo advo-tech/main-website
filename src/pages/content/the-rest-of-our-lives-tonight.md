@@ -8,7 +8,8 @@ issue_full_name: Summer 2021
 section: features
 authors:
   - Vicki Xu
-images: []
+images:
+  - the_rest_of_our_lives.png
 videos: []
 audio: []
 main_image: ""
