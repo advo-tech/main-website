@@ -1,7 +1,7 @@
 ---
 title: Victims of Exposure
 date: 2022-03-16
-slug: "{{ slug }}"
+slug: victims-of-exposure
 issue: Spring
 year: "2021"
 issue_full_name: Spring 2021
