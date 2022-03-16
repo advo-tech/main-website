@@ -33,6 +33,7 @@ function issue_full_date_compare(a, b) {
 }
 
 export default ({data}) => {
+    console.log('data', data);
     var issue_full_names = data.issue_full_names.distinct
     issue_full_names.sort(issue_full_date_compare)
     issue_full_names.reverse()
