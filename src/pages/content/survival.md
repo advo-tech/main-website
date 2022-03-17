@@ -8,7 +8,8 @@ issue_full_name: Fall 2021
 section: fiction
 authors:
   - Corley Miller
-images: []
+images:
+  - survival_corley.jpeg
 videos: []
 audio: []
 main_image: ""
