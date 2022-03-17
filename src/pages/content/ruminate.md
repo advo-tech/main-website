@@ -9,7 +9,7 @@ section: art
 authors:
   - Karly Hou
 images:
-  - ruminate.jpg
+  - ruminate.png
 videos: []
 audio: []
 main_image: ""
