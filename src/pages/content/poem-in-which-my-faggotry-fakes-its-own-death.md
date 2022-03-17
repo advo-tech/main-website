@@ -14,100 +14,56 @@ audio: []
 main_image: ""
 banner_image: ""
 ---
-On the eighth day, coquelicot, 
+On the eighth day, coquelicot, <br/>
+wearing my Armageddon earring,<br/>
 
-wearing my Armageddon earring,
+my faggotry jumped to its death<br/>
+from the foam spire of its death.<br/>
 
+& on the ninth: in paradise, titmice <br/>
+scrubbed its pearls with aftermath flax.<br/>
 
+From its suicide note: So men might <br/>
+once again flip you buffalo nickels.<br/>
 
-my faggotry jumped to its death
+The being inside my having been so <br/>
+delicately razed itself into wondrous pink.<br/>
 
-from the foam spire of its death.
+Meaning my faggotry carried all of astrology <br/>
+& I wanted only the varmint baubles,<br/>
 
+little sex cowlick with which I coaxed<br/>
+maw into morrow, morrow into morning.<br/>
 
+How many times could I wake like that:<br/>
+gowns & waxwings, the paler gust before<br/>
 
-& on the ninth: in paradise, titmice 
+the gust that everyone remembers with a notch<br/>
+in the wall when a prodigal boy molts past his pastness?<br/>
 
-scrubbed its pearls with aftermath flax.
+How many times could I join the hundred<br/>
+apocryphal boys nursing their empire stitch?<br/>
 
+Their faggotries, too, nixed themselves<br/>
+with lovability’s long & bedazzled shears:<br/>
 
+drowned in a tub filled with pink milk,<br/>
+Alice’d by an extra-large bottle of Rush.<br/>
 
-From its suicide note: So men might 
+To build trust, we plunged the javelin of fey<br/>
+suspicion, deep & darkling, inch by inch,<br/>
 
-once again flip you buffalo nickels.
+deeper into each other. I think we sought<br/>
+a new unto, as in the boys we barely let <br/>
 
+ourselves struggle to be, as in two yuan<br/>
+pieces, silver & tinkling, nearly crushing<br/>
+each other into the bottom of a celadon<br/>
+demitasse given as a gift by a lover who,<br/>
 
+nightly, conspired to push our faggotry<br/>
+from the glottal stopgap of the word<br/>
 
-The being inside my having been so 
-
-delicately razed itself into wondrous pink.
-
-
-
-Meaning my faggotry carried all of astrology 
-
-& I wanted only the varmint baubles,
-
-
-
-little sex cowlick with which I coaxed
-
-maw into morrow, morrow into morning.
-
-
-
-How many times could I wake like that:
-
-gowns & waxwings, the paler gust before
-
-
-
-the gust that everyone remembers with a notch
-
-in the wall when a prodigal boy molts past his pastness?
-
-
-
-How many times could I join the hundred
-
-apocryphal boys nursing their empire stitch?
-
-
-Their faggotries, too, nixed themselves
-
-with lovability’s long & bedazzled shears:
-
-
-drowned in a tub filled with pink milk,
-
-Alice’d by an extra-large bottle of Rush.
-
-
-To build trust, we plunged the javelin of fey
-
-suspicion, deep & darkling, inch by inch,
-
-
-deeper into each other. I think we sought
-
-a new unto, as in the boys we barely let 
-
-
-ourselves struggle to be, as in two yuan
-
-pieces, silver & tinkling, nearly crushing
-
-
-each other into the bottom of a celadon
-
-demitasse given as a gift by a lover who,
-
-
-nightly, conspired to push our faggotry
-
-from the glottal stopgap of the word
-
-
-he never said but always meant: not fickle, no, 
-
-not fanged—but blood, yes, & its heavy shimmer.
+he never said but always meant: not fickle, no, <br/>
+not fanged—but blood, yes, & its heavy shimmer. 
+<br/>
