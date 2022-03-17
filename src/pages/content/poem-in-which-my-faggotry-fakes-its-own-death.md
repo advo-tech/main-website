@@ -1,6 +1,6 @@
 ---
 title: Poem in Which My Faggotry Fakes its Own Death
-date: 2022-03-17
+date: "2022-03-17"
 slug: poem-in-which-my-faggotry-fakes-its-own-death
 issue: Fall
 year: "2021"

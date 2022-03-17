@@ -1,6 +1,6 @@
 ---
 title: Land of Tomorrow, Dark and Bloody Ground
-date: 2022-03-17T03:43:54.579Z
+date: "2022-03-15"
 slug: land-of-tomorrow-dark-and-bloody-ground
 issue: Spring
 year: "2021"
