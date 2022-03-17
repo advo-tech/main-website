@@ -1,6 +1,6 @@
 ---
 title: Self-Portrait in an Armchair
-date: 2022-03-17T03:24:35.034Z
+date: "2022-03-17"
 slug: self-portrait-in-an-armchair
 issue: Fall
 year: "2021"

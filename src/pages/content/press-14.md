@@ -1,6 +1,6 @@
 ---
 title: PRESS 14
-date: 2022-03-17T03:25:19.194Z
+date: "2022-03-17"
 slug: press-14
 issue: Fall
 year: "2021"

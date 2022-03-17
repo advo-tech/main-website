@@ -1,6 +1,6 @@
 ---
 title: Ruminate
-date: 2022-03-17T03:26:19.054Z
+date: "2022-03-17"
 slug: ruminate
 issue: Fall
 year: "2021"

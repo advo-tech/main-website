@@ -1,6 +1,6 @@
 ---
 title: The Rest of Our Lives Tonight
-date: 2022-03-16
+date: "2022-03-16"
 slug: the-rest-of-our-lives-tonight
 issue: Summer
 year: "2021"

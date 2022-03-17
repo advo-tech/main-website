@@ -1,6 +1,6 @@
 ---
 title: Existence circa 2017
-date: 2022-03-17T03:22:52.213Z
+date: "2022-03-17"
 slug: existence-circa-2017
 issue: Fall
 year: "2021"

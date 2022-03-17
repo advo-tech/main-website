@@ -1,7 +1,7 @@
 ---
 title: Untitled
-date: 2022-03-17T03:26:51.249Z
-slug: untitled
+date: "2022-03-17"
+slug: untitled-by-marlene-anderson
 issue: Fall
 year: "2021"
 issue_full_name: Fall 2021

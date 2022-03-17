@@ -1,6 +1,6 @@
 ---
 title: Eating Applesauce
-date: 2022-03-17T03:20:59.478Z
+date: "2022-03-17"
 slug: eating-applesauce
 issue: Fall
 year: "2021"

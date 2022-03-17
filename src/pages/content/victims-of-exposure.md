@@ -1,6 +1,6 @@
 ---
 title: Victims of Exposure
-date: 2022-03-16
+date: "2022-03-16"
 slug: victims-of-exposure
 issue: Spring
 year: "2021"

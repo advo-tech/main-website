@@ -110,33 +110,24 @@ export default ({data}) => (
         <div class="homepage">
             <section class="top-features">
                 <div class="container-left-half" id="feature-1">
-                    <div class="category-rule">
-                    <h4 class="category-label">Featured</h4>
+                 <div id="feature-current-issue">
+                        <div class="category-rule">
+                        <h4 class="category-label">Current Issue</h4>
+                        </div>
+                        <div class="current-issue-label">
+                        <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>{data.metadata.siteMetadata.current_issue}</Link>
+                        </div>
+                        <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
+                            <div class="feature-image-container-current-issue">
+                                <div class="feature-image" id="feature-current-issue-image">
+                                    <Image name={convertToSlug(data.metadata.siteMetadata.current_issue)+".png"}/>
+                                </div>
+                            </div>
+                        </Link>
+                        <div class="current-issue-shop">
+                        {/* <a href="/shop">See Shop</a> */}
+                        </div>
                     </div>
-                    <div class="feature-image-container-large">
-                    <div class="feature-image" id="feature-1-image">
-                    <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                        {/* MUST UPDATE TO BECOME DYNAMICALLY UPDATES */}
-                        <Image name="the_rest_of_our_lives.png"/>
-                    </Link>
-                    </div>
-                    </div>
-                    <div class="feature-title-large">
-                    <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                    {data.features.edges[0].node.frontmatter.title}
-                    </Link>
-                    </div>
-                    <div class="feature-description-large">
-                    <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                    {data.features.edges[0].node.excerpt}
-                    </Link>
-                    </div>
-                    <span class="feature-author">
-                        {data.features.edges[0].node.frontmatter.authors.map(author => (
-                            <Link to={"contributor/"+convertToSlug(author)} class="no-decoration">{author}</Link>
-                        ))}
-                    </span>
-                    <div class="feature-release-date">{data.features.edges[0].node.frontmatter.date}</div>
                 </div>
                 <div className="container-right-half">
                     <SmallArticleDisplay data={data.features.edges[1]} metadata={data.metadata}/>
@@ -171,26 +162,38 @@ export default ({data}) => (
             </section> */}
             <section class="bottom-features">
                 <div class="container-left-half">
-                    <div id="feature-current-issue">
-                        <div class="category-rule">
-                        <h4 class="category-label">Current Issue</h4>
+                    <div class="category-rule">
+                        <h4 class="category-label">Featured</h4>
                         </div>
-                        <div class="current-issue-label">
-                        <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>{data.metadata.siteMetadata.current_issue}</Link>
-                        </div>
-                        <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
-                            <div class="feature-image-container-current-issue">
-                                <div class="feature-image" id="feature-current-issue-image">
-                                    <Image name={convertToSlug(data.metadata.siteMetadata.current_issue)+".png"}/>
-                                </div>
-                            </div>
+                        <div class="feature-image-container-large">
+                        <div class="feature-image" id="feature-1-image">
+                        <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
+                            {/* MUST UPDATE TO BECOME DYNAMICALLY UPDATES */}
+                            <Image name="the_rest_of_our_lives.png"/>
                         </Link>
-                        <div class="current-issue-shop">
-                        <a href="/shop">See Shop</a>
                         </div>
-                    </div>
-                    <SmallArticleDisplay data={data.features.edges[2]} metadata={data.metadata}/>
-                    <SmallArticleDisplay data={data.fiction.edges[3]} metadata={data.metadata}/>
+                        </div>
+                        <div class="feature-title-large">
+                        <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
+                        {data.features.edges[0].node.frontmatter.title}
+                        </Link>
+                        </div>
+                        <div class="feature-description-large">
+                        <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
+                        {data.features.edges[0].node.excerpt}
+                        </Link>
+                        </div>
+                        <span class="feature-author">
+                            {data.features.edges[0].node.frontmatter.authors.map(author => (
+                                <Link to={"contributor/"+convertToSlug(author)} class="no-decoration">{author}</Link>
+                            ))}
+                        </span>
+                        <div class="feature-release-date">{data.features.edges[0].node.frontmatter.date}</div>
+
+                        <div>
+                            <SmallArticleDisplay data={data.features.edges[2]} metadata={data.metadata}/>
+                            <SmallArticleDisplay data={data.fiction.edges[3]} metadata={data.metadata}/>
+                        </div>
                 </div>
                 <div class="container-right-half">
                     <div id="editors-picks">

@@ -1,6 +1,6 @@
 ---
 title: CONVERTER
-date: 2022-03-17T03:25:48.018Z
+date: "2022-03-17"
 slug: converter
 issue: Fall
 year: "2021"

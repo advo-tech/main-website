@@ -1,6 +1,6 @@
 ---
 title: Lear Through the Wind
-date: 2022-03-17T03:23:27.408Z
+date: "2022-03-17"
 slug: lear-through-the-wind
 issue: Fall
 year: "2021"

@@ -20,7 +20,7 @@ collections:
      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Publish Date", name: "date", widget: "string"}
       - { label: "Slug", name: "slug", widget: "text", default: "{{ slug }}", hint: "This should be the title of the article in lower case, with no punctuation or special characters. The words should be separated by dashes rather than spaces. For example the slug for the piece At Home With Peter Bradley would be at-home-with-peter-bradley"}
       # - { label: "Issue full name", name: "issue_full_name", widget: "string" }
       - { label: "Issue", name: "issue", widget: "select", options: ["Fall", "Winter", "Spring", "Summer", "Commencement"] }
