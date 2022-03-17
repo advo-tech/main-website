@@ -14,6 +14,8 @@ function convertToSlug(Text)
         ;
 }
 
+// todo: what is a system to update the "from the archives?"
+
 export const query = graphql`
 {
     art: allMarkdownRemark(limit: 5, filter: {frontmatter: {section: {eq: "art"}}}, sort: {fields: frontmatter___date, order: DESC}) {
@@ -76,21 +78,21 @@ export const query = graphql`
         }
         }
     },
-    editors_picks: allMarkdownRemark(limit: 10) {
+    editors_picks: allMarkdownRemark(limit: 10, sort: {fields: id}) {
         edges {
-            node {
+          node {
             frontmatter {
-                title
-                authors
-                slug
-                section
-                issue
-                date
+              title
+              authors
+              slug
+              section
+              issue
+              date
             }
             excerpt
-            }
+          }
         }
-    },
+      },
     metadata: site {
         siteMetadata {
             current_issue
@@ -114,7 +116,8 @@ export default ({data}) => (
                     <div class="feature-image-container-large">
                     <div class="feature-image" id="feature-1-image">
                     <Link to={"/content/"+data.features.edges[0].node.frontmatter.slug}>
-                        <Image name="MyFirstBlood2.png"/>
+                        {/* MUST UPDATE TO BECOME DYNAMICALLY UPDATES */}
+                        <Image name="the_rest_of_our_lives.png"/>
                     </Link>
                     </div>
                     </div>
@@ -143,7 +146,9 @@ export default ({data}) => (
                 </div>
                 <div class="clearfix"></div>
             </section>
-            <section class="banner-advertisement">
+
+            {/* ADS - no ads, so disabled */}
+            {/* <section class="banner-advertisement">
 
                 <div class="col-md-4">
                     <article>
@@ -163,7 +168,7 @@ export default ({data}) => (
                 </div>
 
                 <div class="clearfix"></div>
-            </section>
+            </section> */}
             <section class="bottom-features">
                 <div class="container-left-half">
                     <div id="feature-current-issue">
@@ -176,7 +181,7 @@ export default ({data}) => (
                         <Link to={'issue/'+convertToSlug(data.metadata.siteMetadata.current_issue)}>
                             <div class="feature-image-container-current-issue">
                                 <div class="feature-image" id="feature-current-issue-image">
-                                    <Image name = "winter-2020.png"/>
+                                    <Image name={convertToSlug(data.metadata.siteMetadata.current_issue)+".png"}/>
                                 </div>
                             </div>
                         </Link>

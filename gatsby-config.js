@@ -23,7 +23,7 @@ module.exports = {
     title: `The Harvard Advocate`,
     description: `The Harvard Advocate, founded in 1866, is the oldest continuously published collegiate literary magazine in the USA.`,
     author: `Daniel Inge`,
-    current_issue: `Winter 2020`,
+    current_issue: `Fall 2021`,
   },
 
   plugins: [
