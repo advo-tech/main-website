@@ -10,33 +10,16 @@ const buttonStyles = {
   letterSpacing: "1.5px",
 }
 const Subscribe = class extends React.Component {
-  // Initialise Stripe.js with your publishable key.
-  // You can find your key in the Dashboard:
-  // https://dashboard.stripe.com/account/apikeys
-  componentDidMount() {
-    this.stripe = window.Stripe("pk_live_pcZQaJSwFuM95rhW1jbTOTvK00L3wARazT")
-  }
-  async redirectToCheckout(event) {
-    event.preventDefault()
-    const { error } = await this.stripe.redirectToCheckout({
-        items: [{plan: 'plan_FvvSOJ2cv5Fvs5', quantity: 1}],
-
-        successUrl: 'https://www.theharvardadvocate.com/success',
-        cancelUrl: 'https://www.theharvardadvocate.com/subscribe',
-        billingAddressCollection: 'required'
-    })
-    if (error) {
-      console.warn("Error:", error)
-    }
-  }
+//replaced stripe API with simple stripe checkout link. 
   render() {
     return (
-      <button
-        style={buttonStyles}
-        onClick={event => this.redirectToCheckout(event)}
-      >
-        CLICK HERE TO SUBSCRIBE
-      </button>
+      <a href="https://buy.stripe.com/eVa9Ej3Hy4Hw7T26oo">
+        <button
+          style={buttonStyles}
+        >
+          CLICK HERE TO SUBSCRIBE
+        </button>
+      </a>
     )
   }
 }
