@@ -138,6 +138,23 @@ export default ({data}) => (
                 <div class="clearfix"></div>
             </section>
 
+             {/* ADS */}
+            <section class="banner-advertisement">
+
+                <div class="col-md-12">
+                    <a href="/advertise" class="sponsored-link"> Sponsored </a>
+                        <a href="https://revo.com/" target="_blank" rel="noreferrer noopener">
+                            <Image name="ad_revo.jpeg"/>
+                        </a>
+                    
+                    <p style={{display: 'flex', justifyContent: 'center', fontFamily: 'Futura', color: 'gray', paddingTop: '10px', fontSize: '13px', fontWeight: 'lighter'}}>
+                    Enjoy 20% off the best lens on Earth. Use code: Advocate20
+                    </p>
+                </div>
+
+                <div class="clearfix"></div>
+            </section>
+
             <section class="bottom-features">
                 <div class="container-left-half">
                     <div class="category-rule">
@@ -196,23 +213,6 @@ export default ({data}) => (
                     </div>
                 </div>
             <div class="clearfix"></div>
-            </section>
-
-             {/* ADS */}
-            <section class="banner-advertisement">
-
-                <div class="col-md-12">
-                    <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://revo.com/" target="_blank" rel="noreferrer noopener">
-                            <Image name="ad_revo.jpeg"/>
-                        </a>
-                    
-                    <p style={{display: 'flex', justifyContent: 'center', fontFamily: 'Futura', color: 'gray', paddingTop: '10px', fontSize: '13px', fontWeight: 'lighter'}}>
-                    Enjoy 20% off the best lens on Earth. Use code: Advocate20
-                    </p>
-                </div>
-
-                <div class="clearfix"></div>
             </section>
         </div>
     </Layout>)
