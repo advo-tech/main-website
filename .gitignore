@@ -67,3 +67,6 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 node_modules
+
+# only because packages needed to locally run is diff from production website
+package-lock.json
