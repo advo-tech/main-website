@@ -1,6 +1,6 @@
 ---
 title: Rush Hour 1, 2020
-date: 2022-06-04
+date: "2022-06-04"
 slug: rush_hour_1
 issue: Winter
 year: "2021"

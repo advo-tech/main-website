@@ -1,6 +1,6 @@
 ---
 title: Whale, 2020
-date: 2022-06-04
+date: "2022-06-04"
 slug: whale_2020
 issue: Winter
 year: "2021"

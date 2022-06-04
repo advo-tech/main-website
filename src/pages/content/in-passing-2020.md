@@ -1,6 +1,6 @@
 ---
 title: In Passing, 2020
-date: 2022-06-04
+date: "2022-06-04"
 slug: in_passing
 issue: Winter
 year: "2021"

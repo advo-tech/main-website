@@ -1,6 +1,6 @@
 ---
 title: "Freakshake Mountain, White #3, 2021"
-date: 2022-06-04
+date: "2022-06-04"
 slug: freakshake-mountain-white-3
 issue: Winter
 year: "2021"

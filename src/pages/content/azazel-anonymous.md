@@ -1,6 +1,6 @@
 ---
 title: Azazel Anonymous
-date: 2022-06-04
+date: "2022-06-04"
 slug: azazel-anonymous
 issue: Fall
 year: "2021"

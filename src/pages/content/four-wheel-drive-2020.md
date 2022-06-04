@@ -1,6 +1,6 @@
 ---
-title: Four Wheel Drive, 2020
-date: 2022-06-04
+title:  Drive, 2020
+date: "2022-06-04"
 slug: four_wheel_drive
 issue: Winter
 year: "2021"

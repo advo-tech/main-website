@@ -20,7 +20,7 @@ collections:
      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "string"}
+      - { label: "Publish Date", name: "date", widget: "string", hint: "YYYY-MM-DD"}
       - { label: "Slug", name: "slug", widget: "text", default: "{{ slug }}", hint: "This should be the title of the article in lower case, with no punctuation or special characters. The words should be separated by dashes rather than spaces. For example the slug for the piece At Home With Peter Bradley would be at-home-with-peter-bradley"}
       # - { label: "Issue full name", name: "issue_full_name", widget: "string" }
       - { label: "Issue", name: "issue", widget: "select", options: ["Fall", "Winter", "Spring", "Summer", "Commencement"] }
@@ -33,4 +33,4 @@ collections:
       - { label: "Audio files", required: false, name: "audio", widget: "list", hint: "We don't use this yet. Leave this empty.", default: []}
       - { label: "Article graphic", required: false, name: "main_image", widget: "string", hint: "The filename of the feature graphic that should appear at the top of the article. This is not the main image, it is just the decorative image at the top. For example: cool_top_logo.jpg", default: ""}
       - { label: "Banner image", required: false, name: "banner_image", widget: "string", hint: "We don't use this yet. Leave this empty. Be free!", default: ""}
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", required: false, name: "body", widget: "markdown" }
