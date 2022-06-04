@@ -9,7 +9,7 @@ section: art
 authors:
   - Umut Arslan
 images:
-  - umut_arslan_rush_hour_1.JPG
+  - umut_arslan_rush_hour_1.jpg
 videos: []
 audio: []
 main_image: ""
