@@ -1,6 +1,6 @@
 ---
 title: Their Machismo, 2021
-date: '"2022-06-04"'
+date: "2022-06-04"
 slug: their-machismo
 issue: Winter
 year: "2021"
