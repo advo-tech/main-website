@@ -8,10 +8,11 @@ issue_full_name: Fall 2021
 section: fiction
 authors:
   - Aidan Forster
-images: []
+images:
+  - azazel_anonymous_aiden.jpeg
 videos: []
 audio: []
-main_image: azazel_anonymous_aiden.jpeg
+main_image: ""
 banner_image: ""
 ---
 We began each meeting with a hyacinth, to deny the Hole its hold on our lives. Our trusted servant, Father Brown, distributed flowers and heirloom glasses of cool water. We dipped our hyacinths, blush-quick and simple, and removed them, even simpler. Another dip, and another, and the dormant lacquer of a different, frightening flower cast itself over the stem we thought we knew. The third dip was the worst, no matter how many sessions we’d attended. Billy the Medicare salesman always shook so hard small droplets of water skirted from his wrist. But Father Brown’s voice reassured us that the hyacinth we held and the hyacinth in the water were one and the same, and he removed his flower and flourished its formal singularity, and we all relaxed. The water, although not the Hole exactly, could mimic the Hole’s obliterative properties. In the Hole, the flower became other-flower, its petals the very petals of its prior aspect’s doom.
