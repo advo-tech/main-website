@@ -1,6 +1,6 @@
 ---
 title: "Subway Hands #3, 2019"
-date: 2022-06-05
+date: "2022-06-05"
 slug: subway-hands-3
 issue: Winter
 year: "2021"

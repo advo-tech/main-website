@@ -1,6 +1,6 @@
 ---
 title: Spring, 2015
-date: 2022-06-05
+date: "2022-06-05"
 slug: spring-2
 issue: Winter
 year: "2021"

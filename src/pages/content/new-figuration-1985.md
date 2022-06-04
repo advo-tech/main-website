@@ -1,6 +1,6 @@
 ---
 title: New Figuration, 1985
-date: 2022-06-05
+date: "2022-06-05"
 slug: new-figuration
 issue: Winter
 year: "2021"

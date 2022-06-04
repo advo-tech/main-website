@@ -1,6 +1,6 @@
 ---
 title: Caught Dreaming, 2006
-date: 2022-06-05
+date: "2022-06-05"
 slug: caught-dreaming-2
 issue: Winter
 year: "2021"

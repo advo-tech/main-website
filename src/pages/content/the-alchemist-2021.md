@@ -1,6 +1,6 @@
 ---
 title: The Alchemist, 2021
-date: 2022-06-05
+date: "2022-06-05"
 slug: the-alchemist
 issue: Winter
 year: "2021"
