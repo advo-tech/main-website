@@ -15,4 +15,3 @@ audio: []
 main_image: ""
 banner_image: ""
 ---
-\
