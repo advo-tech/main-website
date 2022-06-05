@@ -4,7 +4,7 @@ backend:
   name: github
   repo: harvardadvocate/main-website
   branch: master
-
+  base_url: https://advo-netlifycms-github-oauth-provider.glitch.me/
 media_folder: static/img
 public_folder: /img
 
