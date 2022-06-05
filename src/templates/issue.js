@@ -129,7 +129,7 @@ export default ({ data, pageContext }) => {
                       <div>
                          <h2 class="subheader no_padding">Columns</h2>
                          <hr class="subheader-border"></hr>
-                         {data.art.edges.map(edge => (
+                         {data.columns.edges.map(edge => (
                               <div class="section-article">
                               <p class="name"><Link to={"/content/"+edge.node.frontmatter.slug}>{edge.node.frontmatter.title}</Link> -
                               {edge.node.frontmatter.authors.map(author => (
