@@ -66,13 +66,11 @@ of mine you are always
 bleeding\
 and always smear it on me—\
 it happens\
-at the thresh-
+at the thresh-\
 
-\    
-
-\  
-
-  
+<br>
+<br>
+<br>
 
 hold—\
 I would like to be held\
