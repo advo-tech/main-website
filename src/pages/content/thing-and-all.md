@@ -7,7 +7,7 @@ year: '2021'
 issue_full_name: Winter 2021
 section: poetry
 authors:
-  - ''
+  - Mark Levine
 images: []
 videos: []
 audio: []
