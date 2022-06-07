@@ -8,7 +8,8 @@ issue_full_name: Winter 2021
 section: features
 authors:
   - Lana Reeves
-images: []
+images:
+  - in_memorabilia_lana.jpg
 videos: []
 audio: []
 main_image: ''
