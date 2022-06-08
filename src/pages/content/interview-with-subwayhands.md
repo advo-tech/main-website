@@ -6,8 +6,7 @@ issue: Winter
 year: '2021'
 issue_full_name: Winter 2021
 section: columns
-authors:
-  - Anna Correll & Ezra Lebovitz
+authors: ['Anna Correll', 'Ezra Lebovitz']
 images: []
 videos: []
 audio: []
