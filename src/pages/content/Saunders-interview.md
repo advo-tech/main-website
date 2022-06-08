@@ -5,7 +5,7 @@
   issue_full_name: "Winter 2021"
   year: "2021"
   date: "2021-01-01"
-  authors: ['Juliet Isselbacher and Tadhg Larabee']
+  authors: ['Juliet Isselbacher','Tadhg Larabee']
   section: "columns"
   audio: []
   main_image: ""
