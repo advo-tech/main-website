@@ -9,7 +9,7 @@ section: art
 authors:
   - Beatrice Modisett
 images:
-  - beautrice_modisett_Every Flower_Touched.jpg
+  - beautrice_modisett_Every_Flower_Touched.jpg
 videos: []
 audio: []
 main_image: ''
