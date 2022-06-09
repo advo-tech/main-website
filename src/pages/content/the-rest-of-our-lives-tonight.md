@@ -1,9 +1,9 @@
 ---
 title: The Rest of Our Lives Tonight
-date: "2022-03-16"
+date: '2022-03-16'
 slug: the-rest-of-our-lives-tonight
 issue: Summer
-year: "2021"
+year: '2021'
 issue_full_name: Summer 2021
 section: features
 authors:
@@ -12,8 +12,8 @@ images:
   - the_rest_of_our_lives.png
 videos: []
 audio: []
-main_image: ""
-banner_image: ""
+main_image: ''
+banner_image: ''
 ---
 In the days after high school graduation, having ridded my schedule of high school effects, I found myself in possession of a remarkable amount of free time. Three months’ worth, to be exact. The last time I had this much free time was probably elementary school graduation, and I had spent most of my high school years yearning for this kind of idleness.
 
@@ -23,45 +23,38 @@ I was very rusty at enjoying life. I had spent middle school and high school rot
 
 To occupy myself now, I spent a lot of time on Wikipedia. When I was a little kid, I imagined my own article on the site all the time: my name in Georgia heading font, a picture of myself, and detailed sections that amounted to a full, rich life. Surfing biographies, I felt like I was trying on costumes.
 
-But mostly I tried to avoid hearing myself think. The world was unfurling and asking, “what now,” in the same way my mother would ask “what major” or my grandma would ask “what if you get a PhD,” neither question I was particularly keen to answer. A line from the novel Forty Rooms by Olga Grushin played over and over in my head: “Whenever you come to a fork in the road, always choose the harder path, otherwise the path of least resistance will be chosen for you.” So what I really wanted now was to dig my heels in and stop time. Unfortunately, I was finding that while I presently had the leeway to slow down instead of rushing to the next thing, time never did. 
+But mostly I tried to avoid hearing myself think. The world was unfurling and asking, “what now,” in the same way my mother would ask “what major” or my grandma would ask “what if you get a PhD,” neither question I was particularly keen to answer. A line from the novel _Forty Rooms_ by Olga Grushin played over and over in my head: “Whenever you come to a fork in the road, always choose the harder path, otherwise the path of least resistance will be chosen for you.” So what I really wanted now was to dig my heels in and stop time. Unfortunately, I was finding that while _I_ presently had the leeway to slow down instead of rushing to the next thing, time never did. 
 
 Three months seemed too little and not enough to prepare for a four-year catapult into what I knew as a murky cycle of waking up, brushing teeth, doing things, eating, doing things, eating, doing things, going to bed, waking up, and so on. I was full of waiting. 
 
-\*\**
+- - -
 
 In July, I took a trip with my mother to China. It was her parting gift to me as well as an attempt to mend our relationship, which had grown strained over high school. The plan was to hit Hong Kong, visit my mother’s college buddy in Guangzhou, Guangdong, spend a couple days in a Sanya, Hainan resort, and then go back up to Beijing to link with my extended family. 
 
 I had been listening to a lot of music. For one reason or another I never really listened to anything for fun in high school. (A small exception occurred in junior year: I cross-enrolled at a local community college for a music history class on Western pop in the latter half of the 20th century and went through a brief glam rock phase.) As if to make up for lost time, I was pounding through genres. 
 
+<br>
+<br> 
 
+_From now on, there’s no looking back, full steam ahead on a one way track…_
 
-From now on, there’s no looking back, full steam ahead on a one way track…
-
-
+<br>
+<br> 
 
 I’m not a very proficient Spotify user — I usually file songs into playlists labeled with the season and year, hoping to capture some essence of the times to revisit. By the time we arrived in Hong Kong, my summer 2019 playlist was swollen. 
 
 
-
-Out on the Verge on the rest of our lives tonight, top of the world and we’re dressed to the nines tonight…
-
-
+_Out on the Verge on the rest of our lives tonight, top of the world and we’re dressed to the nines tonight…_
 
 Hong Kong was a blur. My mother was strung tight. We arrived in the midst of the city’s free speech movement that year, and we spoke Mandarin, not Cantonese. “We really don’t fit in here,” she muttered to me more than once, which must’ve been a blow to her since here we finally resembled everyone else. I was accustomed to not fitting in in the United States or Asia and had no problem navigating using English.
 
 Afternoons were hot and sticky. Having grown used to dry Bay Area summers, we took shelter in the hotel room. While my mom napped, I sat next to her in bed and rediscovered a lot of stuff: 
 
+_You would not believe your eyes, if ten million fireflies…_ \
+_But time gets bolder, children get older, and I’m getting older too_\
+_Today is the start of the rest of our lives, I can see it in your eyes…_
 
-
-You would not believe your eyes, if ten million fireflies… 
-
-But time gets bolder, children get older, and I’m getting older too
-
-Today is the start of the rest of our lives, I can see it in your eyes…
-
-
-
-I never watched Kim Possible, but Christy Carlson Romano’s “Could It Be” was the backdrop recording to fan edits of shows I did watch. It hit me, as I watched the lyrics scroll across the screen, that the first time I’d heard the song was a decade ago. 
+I never watched _Kim Possible_, but Christy Carlson Romano’s “Could It Be” was the backdrop recording to fan edits of shows I did watch. It hit me, as I watched the lyrics scroll across the screen, that the first time I’d heard the song was a decade ago. 
 
 For most of my life up until then, ten years ago pointed to a time when I wasn’t quite culturally sentient. But now ten years ago meant 2009. I was eight. It was a strange feeling. Ten years would turn to twenty, and twenty to thirty, and thirty to… I was joining the ranks of adults. 
 
@@ -79,7 +72,7 @@ At some point it had occurred to me that to move forward happily, maybe I should
 
 That’s encouraging, I thought. “OK,” I said. 
 
-\*\**
+- - -
 
 My mother’s buddy had become a hotel manager in Guangzhou, which meant we got a room at a vastly discounted price and were treated to excursions to landmarks around Guangdong and in the neighboring province, Guangxi. The last time I slept in the same bed as my mother, I was six. 
 
@@ -111,7 +104,7 @@ The sun had almost completely set by now, and the sky was purple-gray. Steam cur
 
 I stepped out of my slippers onto the porch boards, then took off my robe. The night was mild and comfortable; I didn’t even shiver. I placed my foot on the raised stone edge of the hot tub. 
 
-The water was hot. Scalding, in fact. I hissed. 
+The water _was_ hot. Scalding, in fact. I hissed. 
 
 My mother chuckled. “I wasn’t lying, right? I think I’ll just do this.” She rose out of the water. Dripping, she crouched on the edge of the tub and scooped up a handful of water, tongue between her teeth, and poured it over her legs. 
 
@@ -143,7 +136,7 @@ The last few times I’ve been to China I’ve been too young to truly cherish i
 
 The trees overhead rustled softly. The light from the moon dimmed. I stood on the warm porch boards, soaking in the sight of the dark stone tub at my feet, the soft yellow glow of our room beyond the sliding doors, my faint reflection fogged onto the glass. Inside, my mother’s solid fleshy body undressed to sleep.
 
-\*\**
+- - -
 
 Yiyi was the child of one of my mom’s college roommates. I had only a faint recollection of meeting her ten years earlier, when I was seven. She had been wearing a chartreuse-yellow dress with some kind of red pattern. She was grown now, half a head taller than me, still fond of ankle-length dresses and wide-brimmed hats that prevented tanning. When we walked out of the airport terminal in Sanya, it was her waving hi that I saw first.
 
@@ -173,11 +166,7 @@ Being at the Forbidden City was an interesting feeling, those centuries of histo
 
 The world gets so big. I was scared that without an anchor I would get lost in it somehow, swept away by the tides of history, which I saw as a big, twisting, circular rope braided from tiny channels through which each person could shoot, channels whose shapes were dictated by the choices people made. Buffeted by the world’s impulses, I would float down narrower and narrower straits until I’d lost sight of the bigger picture. But as long as I stayed at the base of the mycelium, straddling all my different options, I had the full view of the lives I could live. 
 
-
-
-Full steam ahead on a one-way track…
-
-
+_Full steam ahead on a one-way track…_
 
 There was an innocence to not knowing. New experiences inevitably color older ones. The shine wears off and a path just becomes life. But suspended in this in-between, I could be everything at once. I did not have to worry about dissatisfaction, or discontent, or all the rest of life’s petty worries because none of it had happened yet. An artist, painter, scientist, translator, doctor, professional globe-trotter. It was never enough, and it was spilling over. 
 
