@@ -9,7 +9,7 @@ section: art
 authors:
   - Mario Loprete
 images:
-  - lucy_jackson_tea_for_two.jpg
+  - mario_loprete_lo_stendipanni.png
 videos: []
 audio: []
 main_image: ''
