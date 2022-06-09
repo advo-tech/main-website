@@ -1,18 +1,19 @@
 ---
 title: Victims of Exposure
-date: "2022-03-16"
+date: '2022-03-16'
 slug: victims-of-exposure
 issue: Spring
-year: "2021"
+year: '2021'
 issue_full_name: Spring 2021
 section: fiction
 authors:
   - Kit Pyne-Jaeger
-images: []
+images:
+  - victims_of_exposure_kit.jpg
 videos: []
 audio: []
-main_image: ""
-banner_image: ""
+main_image: ''
+banner_image: ''
 ---
 My holiness was an accident. It happened because I had nothing else to eat. I had stopped eating eggs after the salmonella outbreak on the news in February, salad greens after the third report of E. coli, dairy after listeria killed a pregnant woman from Georgia. Anneke, my wife, said I needed therapy, but extreme caution seemed reasonable to me. Dirt full of feces, ungloved fingers, shed hair and dead skin, utensils not rinsed in hot water, air oozing into sealed containers. Eventually I survived on fruit and overbrewed black coffee. Anneke gave up cooking for herself, ate Greek yogurt and packaged salads and didn’t clean out the refrigerator, which began to smell sweet and stagnant.
 
