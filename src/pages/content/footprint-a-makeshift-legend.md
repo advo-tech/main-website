@@ -18,7 +18,7 @@ banner_image: ''
 1. 
 
 _There is a rhetoric of walking._
-—Michel de Certeau, The Practice of Everyday Living [^1]
+—Michel de Certeau, The Practice of Everyday Living \[^1]
 
 Recently Footprint has been showing more and more error messages in response to my motions. I started to notice this about three months ago—an error is typically a very unusual thing, but during the week of May 2nd alone, I logged three non-negligible recalibrations in my Footpath. Before this May, I averaged around one recalibration a year since I turned eighteen; even during developmental years, annual recalibrations never exceeded 6-8 in total, which is already on the high end. 
 
@@ -85,12 +85,9 @@ When my mother wanted me to clean my room, she would recite this one Chinese pro
 
 That night, I was so ashamed that I thought I would simply die, right then. There was grief and a deep shame at my own inurement towards the obvious necessary violence of optimization. I was so shocked by my own shock at what was so exceedingly obvious that I began vomiting violently.
 
-
 It was so easy to miss the brutality of Footprint. The way Footprint makes “you” and “I” who we are, reconstitutes us in our planned collective motions, seems so benign, _disegno_ where control is not centralized in a person, but dispersed—collectively configured. Each one of us is optimized for everyone else and for ourselves. We had given up the arduous task of self-transformation through the disciplining of our bodily comportment to _they_ who knew how to do it better. It doesn’t matter, really, whether this way of thinking about Footprint was right or wrong. Whether the systems of Footprint disaggregated power—whether it truly was a decentralized, collectively choreographed motion towards _optimum_—or collected it into the spectral hands of the invisible they; whether they were really us or not; none of this mattered because there is nothing to be done. The required subject is absent. The center, even if it exists, cannot be located or held responsible. All of us are held by the inertia of this deep structure. 
 
-
 The night the news of Yao Pin An aired, I walked all the way from my closet-sized apartment in Brooklyn to 3rd Ave & East 125 St, pitching through the dark in unclean motions. Imagine the desperation, the vicious anger, the grief of someone who is trapped in something unescapable, who has no choice but to subject themselves to something to which they had always and would always be subjected. I was overcome, violently, with an urge to do everything wrong—to deviate in all of my motions as a giant fuck you to _them_. But I could not. Everything I do is beyond myself. There will be consequences for someone else.
-
 
 I remember once reading an anthropological text on the wisdom of the Apache. The anthropologist wrote:
 
@@ -102,16 +99,11 @@ The Apache imagined that we would grow in wisdom by looking for footprints—dir
 
 I was thinking about how people go places but do not look, or remember, or learn any names; Footprint eliminates this need. I was thinking about the rhetoric of walking, how the sounds of all our motions have cohered into one single harmony. I was thinking about Yao Pin An and his broken skull. 
 
-
 I was thinking about this when I arrived at 3rd Ave & East 125 St. 
-
 
 I was thinking about how the price for _optimization_ was the annexation of all of our selves and all of our possible selves.
 
-
 I was thinking that somehow, at this moment that is by all “objective measures” the height of human development, we are coming upon the end of the world.
-
-
 
 - - -
 
@@ -123,45 +115,31 @@ _In the transforming process of the universe, the past has just gone and the fut
 _From the wind, I learned a syntax for forwardness, how to move through obstacles by wrapping myself around them. You can make it home this way._
 —Ocean Vuong, On Earth We’re Briefly Gorgeous 12
 
-
 That night, I started to write things down—and Footprint started to recalibrate at an abnormal pace. 
-
 
 Standing there at the corner of 3rd Ave & East 125 St, a day after Yao Pin An’s head was bashed into that spot, I thought about Baozhu Chen and Yao Pin An. I thought about my father. I remember feeling ashamed of the abstraction of my own sorrow. Yao Pin An is in a coma. Baozhu Chen must live. And I am just… here. What was the reason for my arrival in this place? 
 
-
 I don’t know what I expected to see—maybe I thought that a catastrophic event would have changed the terrain of the place, just a little. But there was nothing. No yellow tape, no markings, no trace of where Yao Pin An was crash-landed into the earth. Just a non-descript street corner, the faded yellow paint peeling like tree bark from the curb, the impact of a human skull lost among decades of scrapes and weathering. A bit of grass and a lone, scrawny dandelion broke through the earth where curb met street. 
-
 
 Standing there, watching the dandelion waver in the thick air, I reached in my pocket and wrapped my fingers around the cheap ballpoint pen inside. I popped off the cap and drew a line on my left hand. It felt right, so I kept going. I drew the line all the way from the tip of my left index finger to my elbow. Above the line, I wrote “R.I.P” and below the line I wrote all the names I could remember of everyone who has died in the past year. Yao Pin An is not on the list. If he is dead, I don’t know this. I didn’t put him on the list.
 
-
 None of these motions were deviations. But the second I lifted the pen from my arm in the gesture of writing, Footprint recalibrated.
-
 
 One month later, the ink from that night long gone from my arm, finally beginning to relearn the motions of casual happiness again, I stood by a magnolia tree. I watched it blooming in the warm light of the coastal spring, and suddenly, I knew that its name was _grace_. I marked it down on my hand so as not to forget, using the same pen, stashed still in my jacket pocket. When I lifted my pen, Footprint recalibrated again.
 
-
 Two days later, I tripped on the sidewalk and fell in a remarkably protracted and ungraceful motion. Not a deviation. I wasn’t injured. I remember seeing the gentle cracks in the pavement of the sidewalk, the thin dusting of a soft tan film over the surface. Overcome with a random, rather airheaded poetic force, I took my pen and marked the spot on the sidewalk with a tiny X. Here I fell. Here I once was. In this moment of small wonder, I let myself make a mark on the street, fancying myself a poet. Footprint recalibrated. 
-
 
 Walter Benjamin wrote that “The value of information does not survive the moment in which it was new. It lives only at that moment; it has to surrender to it completely and explain itself to it without losing any time. A story is different. It does not expend itself.” 13
 
-
 Let me tell you my stupid little theory about the reason behind the unreasonable number of recalibrations my Footprint has undergone over the last few months. I know already, even as I am writing this down, that it is massively unscientific and makes little to no sense. Probably during my next functionality review with a technician, it’ll turn out that there’s been a small malfunction in the hardware after all. But for now I finally feel as if I might be able to breathe again. 
-
 
 So let me tell you my theory. For us who slip and slide with complete ease and certainty through our lives, knowing that at all moments our Footpath has been optimized, the art of memory has been forgotten. Tolstoy once wrote in his diary “since these movements are habitual and unconscious, I felt that it was already impossible to remember it…if I had acted unconsciously, then this is tantamount to not having done it at all.” 14 Memory is unnecessary when you do not need to learn; Footprint supplants learned wisdom. There is something impeding the development of memory because we are told where to go. It directs us always towards the most appropriate motion. Executing our Footpath is a fluid, unconscious motion. And sometimes the most appropriate motion somehow calculates “you” as expendable. But there is nothing to be done; there is no possible form of revolt. There are ghosts in place of anyone or anything that could have been held responsible. There is nothing to be done. Not following the Footpath devastates not just yourself but everyone else. What can be done?
 
-
 Because there is nothing to be done about anything, acting is no longer _acting_. This is the same as not having done it at all. Nachmanovitch, in _Free Play_, explains how, “by reinterpreting reality and begetting novelty, we keep from becoming rigid. Play enables us to rearrange our capacities and our very identity so that they can be used in unforeseen ways.” 15 There could not be a moment in human history more devoid of play than now. There is nothing unforeseen, because Footprint is the ultimate panoptic operation. 
-
 
 New York is freezing over. It’s cold because of the steel and concrete and ecological disaster which has left almost all areas of the globe inhospitable without great artificial climate controls. It’s cold because it isn’t a home. Here, nothing makes any place special. Everything is unmoored amid a sea of scaffolding. There is nothing special: Nothing is marked with a story or a memory, all legends having been drained from the land by the precise logic of optimization. So what of us, then, who remember nothing? You and I—we drift from place to place in the dictated motions that necessarily configure everything that we are. Turtle shells litter this city—places that are only special because we dwell within them. We make nowhere a home. There are only places in which one can no longer believe in anything. Proper names for places “are the object of a witch-hunt, by the very logic of the techno-structure.” 16 There are no names for places. There are no places, really—just scaffolding.
 
-
 But what if I left a word behind, as I move, so I could return—anchored myself, somehow, to a spot on my Footpath with poetic force? 
-
 
 What if by naming and remembering—writing down—I can find my way home? What if both you and I could find our way home by making places habitable, and, in doing so, tell our own stories? What if we wrote down our own urban legends, made “a crack in the system that saturates places with signification”? 17 
 
@@ -171,20 +149,14 @@ _Stories are makeshift things. They are composed with the world’s debris._ 18
 
 All vocabulary is temporary. We only ever find words for an instant. Then everything grows hazy again. Whenever I read poetry, or literature, or anything, I feel, for an instant at a time, that I am coming into my own speech too. It lasts for an hour. A day if I’m lucky. In those times, I can write. Then it’s gone again, and all there is left to do is live.
 
-
 Nothing I used to write ever triggered a recalibration. The act of writing itself is unmeaningful. Everything is an act of signification; language itself, the practice of writing, is unexceptional. But words can project—they can throw me back into places of meaning. So if I hide a word in a place I visit, the smoothness of the function breaks. Making poetry out of the world, making rhetoric out of my motion—that is something that disrupts something. It’s something meaningful, somehow.
-
 
 _Travel (like walking) is a substitute for the legends that used to open up space to something different._ 19
 
-
 I think I am triggering recalibrations through the simple act of giving names to places. There is a rhetoric of walking which is lost when movement doesn’t require improvisation, play, or thought. Something about Footprint charting my course through the future has taken the language out of my walk. But I am learning, from the stones, the flowers, the cracks in the sidewalk, to make temporary stories from debris. To become anchored, somehow, in a way that Footprint disallows. To stutter in my motion; to swerve. 
-
 
 _Places are fragmentary and inward-turning histories, pasts that others are not allowed to read, accumulated times that can be unfolded but like stories held in reserve, remaining in an enigmatic state, symbolizations encysted in the pain or pleasure of the body._ 20
 
-
 I do not know what happened to Yao Pin An. Am I allowed to swerve, when nothing has changed for anyone else? When my Footpath recalibrates, what happens to the rest of the world? Does my stuttering cause others to stagger in their footprints as well? Am I allowed to learn to swerve from my secondhand mourning for a man crushed against the New York streets? Am I allowed to let my depression lift, when Footprint still crushes us all with its gravity? 
-
 
 I don’t know. I don’t know what I am allowed to have, but I’m going to let myself have this: these words.
