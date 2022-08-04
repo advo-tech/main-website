@@ -14,8 +14,8 @@ export default () => (
             </div>
             <h1 class="header">Fall 2022 Issue</h1>
             <div className='center'>
-                <p>We are currently accepting submissions for our Fall 2022 issue.</p>
-                <p>Our Fall 2022 review period ends on Friday, June 24th, 2022.</p>
+                <p>Submissions for our Fall 2022 issue is now closed. Winter Submissions will open October.</p>
+                {/* <p>Our Fall 2022 review period ends on Friday, June 24th, 2022.</p> */}
             </div>
             <div className='center'>
             </div>
