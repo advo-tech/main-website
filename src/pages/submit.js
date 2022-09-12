@@ -12,9 +12,13 @@ export default () => (
             <div className="center">
                 <p><i>The Harvard Advocate</i> accepts submissions of art, fiction, and poetry of any form or length created by members of the Harvard community, as well as outside contributors at our discretion. All submissions are considered anonymously.</p>
             </div>
-            <h1 class="header">Fall 2022 Issue</h1>
+            <h1 class="header">Winter 2023 Issue</h1>
             <div className='center'>
-                <p>Submissions for our Fall 2022 issue is now closed. Winter Submissions will open October.</p>
+                
+                <p>Our Winter 2023 review period ends on Friday, October 14th, 2022.</p>
+
+                {/* EXAMPLE CLOSED/OPEN SENTENCES. */}
+                {/* <p>Submissions for our Fall 2022 issue is now closed. Winter Submissions will open October.</p> */}
                 {/* <p>Our Fall 2022 review period ends on Friday, June 24th, 2022.</p> */}
             </div>
             <div className='center'>
