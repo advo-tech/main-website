@@ -51,7 +51,7 @@ export default () => (
             <li>PAUL SULLIVAN</li>
             <li>TALIA BLATT</li>
             <li>EZRA LEBOVITZ</li>
-            <li>NIKHIL DHARMARAJ</li>
+            <li>ANDREAS LORDOS</li>
             <li>FRIDO WICKE</li>
             <li>THEA CHUNG</li>
             <li>LANA REEVES</li>
