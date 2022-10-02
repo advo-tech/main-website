@@ -28,7 +28,6 @@ export default () => (
             <li>Alumni Relations Manager</li>
             <li>Dionysi</li>
             <li>&ensp;</li>
-            <li>&ensp;</li>
             <li>Pegasi</li>
             <li>&ensp;</li>
             <li>&ensp;</li>
@@ -52,22 +51,22 @@ export default () => (
             <li>TALIA BLATT</li>
             <li>EZRA LEBOVITZ</li>
             <li>ANDREAS LORDOS</li>
-            <li>FRIDO WICKE</li>
-            <li>THEA CHUNG</li>
+            <li>BECCA CADENHEAD</li>
+            <li>CARRIE HSU</li>
             <li>LANA REEVES</li>
             <li>CHARLOTTE PONTIFELL</li>
-            <li>MAX SCHACHERMAYER</li>
             <li>JULIET COE</li>
             <li>ANNIKA INAMPUDI</li>
             <li>PROOF SCHUBERT-REED</li>
             <li>MIRA ALPERS</li>
             <li>BETSY PEINADO</li>
-            <li>JESS LEE</li>
+            <li>UNA ROVEN</li>
             <li>JULIET ISSELBACHER</li>
             <li>IZZY CHO</li>
             <li>NICOLE FARINA</li>
             <li>ALISA REGASSA</li>
-            <li>LILY CUNNINGHAM</li>
+            <li>AMULYA GARIMELLA</li>
+            <li>ANDREAS LORDOS</li>
             <li>ALEXA MARK</li>
             <li>TADHG LARABEE</li>
         </ul>
