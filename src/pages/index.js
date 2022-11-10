@@ -143,13 +143,10 @@ export default ({data}) => (
 
                 <div class="col-md-12">
                     <a href="/advertise" class="sponsored-link"> Sponsored </a>
-                        <a href="https://revo.com/" target="_blank" rel="noreferrer noopener">
-                            <Image name="ad_revo.jpeg"/>
+                        <a href="https://www.theboxwalla.com/product/american-fiction-series-with-alexander-chee/" target="_blank" rel="noreferrer noopener">
+                            <Image name="ad_boxwalla.png"/>
                         </a>
                     
-                    <p style={{display: 'flex', justifyContent: 'center', fontFamily: 'Futura', color: 'gray', paddingTop: '10px', fontSize: '13px', fontWeight: 'lighter'}}>
-                    Enjoy 20% off the best lens on Earth. Use code: Advocate20
-                    </p>
                 </div>
 
                 <div class="clearfix"></div>
