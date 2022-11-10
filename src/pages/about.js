@@ -10,6 +10,8 @@ export default () => (
     <div className="container">
         <h1 className="header">ABOUT US</h1>
         <p className="text text-center"> <i>The Harvard Advocate</i>, founded in 1866, is the oldest continuously published collegiate literary magazine in the country. Over its long history, it can count T.S. Eliot, Conrad Aiken, and Norman Mailer among its members and e.e. cummings, Jack Kerouac, and Tom Wolfe as contributors to its pages. A quarterly magazine, <i>The Advocate</i>'s mission is to publish the best art, fiction, poetry, and prose that the Harvard undergraduate community offers. </p>
+        <p></p>
+        <p className="text text-center">The Harvard Advocate is a partner of <a href="https://www.printingcenterusa.com/printing/booklet-printing">PrintingCenterUSA.</a></p>
         <h2 className="subheader">EXECUTIVE BOARD 2022 </h2>
         <ul className="board-list list-left">
             <li>President</li>
@@ -70,6 +72,7 @@ export default () => (
             <li>ALEXA MARK</li>
             <li>TADHG LARABEE</li>
         </ul>
+    
     </div>
 
     </Layout>
